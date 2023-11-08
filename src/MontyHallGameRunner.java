@@ -41,6 +41,7 @@ public class MontyHallGameRunner {
                 System.out.println("Congratulations! You won the car!");
             } else {
                 System.out.println("Sorry, you got a goat.");
+                //
             }
         }
     }
